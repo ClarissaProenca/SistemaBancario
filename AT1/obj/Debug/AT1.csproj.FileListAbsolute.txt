@@ -1,0 +1,8 @@
+C:\Users\clari\source\repos\AT1\AT1\bin\Debug\AT1.exe.config
+C:\Users\clari\source\repos\AT1\AT1\bin\Debug\AT1.exe
+C:\Users\clari\source\repos\AT1\AT1\bin\Debug\AT1.pdb
+C:\Users\clari\source\repos\AT1\AT1\obj\Debug\AT1.csproj.AssemblyReference.cache
+C:\Users\clari\source\repos\AT1\AT1\obj\Debug\AT1.csproj.SuggestedBindingRedirects.cache
+C:\Users\clari\source\repos\AT1\AT1\obj\Debug\AT1.csproj.CoreCompileInputs.cache
+C:\Users\clari\source\repos\AT1\AT1\obj\Debug\AT1.exe
+C:\Users\clari\source\repos\AT1\AT1\obj\Debug\AT1.pdb
